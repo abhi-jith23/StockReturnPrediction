@@ -1,0 +1,11 @@
+{
+  "hidden_lstm": 64,
+  "hidden_gru": 128,
+  "dense1": 32,
+  "dense2": 32,
+  "dropout": 0.2,
+  "lr": 0.0005,
+  "weight_decay": 1e-06,
+  "batch_size": 128,
+  "grad_clip": 1.0
+}
