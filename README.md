@@ -115,10 +115,7 @@ For PCA-based models:
 
 ### Metrics
 - MAE, RMSE, \(R^2\)
-- Directional accuracy (MDA):
-  {
-  \mathrm{MDA}=\frac{1}{n}\sum_{i=1}^{n}\mathbb{1}\big(\mathrm{sign}(r_i)=\mathrm{sign}(\hat r_i)\big)
-  }
+- Directional accuracy (MDA): $\mathrm{MDA} = \frac{1}{n} \sum_{i=1}^{n} \mathbb{1}(\mathrm{sign}(r_i) = \mathrm{sign}(\hat{r}_i))$
 
 ---
 
